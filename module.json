@@ -715,6 +715,6 @@
     }
   ],
   "url": "https://github.com/phenomen/foundry-vtt-ru",
-  "manifest": "https://raw.githubusercontent.com/phenomen/foundry-vtt-ru/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/Zmeugat/foundry/main/module.json",
   "download": "https://github.com/phenomen/foundry-vtt-ru/archive/refs/heads/master.zip"
 }
