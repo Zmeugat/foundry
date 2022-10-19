@@ -10,12 +10,12 @@
       "url": "https://discord.gg/Z2CXFy35WF"
     }
   ],
-  "version": "10.288.4",
+  "version": "9.268.4",
   "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "10",
+  "compatibleCoreVersion": "9",
   "compatibility": {
     "minimum": "9",
-    "verified": "10",
+    "verified": "9",
     "maximum": "10"
   },
   "coreTranslation": true,
